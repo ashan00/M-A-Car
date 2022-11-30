@@ -12,6 +12,7 @@ Simulated Model:
 ![image](https://user-images.githubusercontent.com/65490263/204677301-71a95929-d39f-4813-82c6-0e807d0509f7.png)
 
 Trajectory of car taken:
+
 ![image](https://user-images.githubusercontent.com/65490263/204677115-63b4807c-2272-4549-a248-62d79245b480.png)
 
 Simulated trajectory w/ final car model parameters inputted.
