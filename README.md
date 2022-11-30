@@ -9,7 +9,7 @@ Contributors: Nirosh & Rishi
 - Have car take trajectory shown below both **manually** and **autonmously**
 - Desired Trajectory: L = length of car = 8'' (20.32 cm)
 
-![image](https://user-images.githubusercontent.com/65490263/204677115-63b4807c-2272-4549-a248-62d79245b480.png)
+![image](https://user-images.githubusercontent.com/65490263/204677115-63b4807c-2272-4549-a248-62d79245b480.png | width=100)
 
 
 ##How to Build it?
