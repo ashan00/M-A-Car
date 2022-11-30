@@ -1,4 +1,4 @@
-# Remote-Controlled-Car
+# M-A-Car
 Car designed, simulated, & built for manual and autonmous control with remote via Arduino
 
 Code File - Remote_Controlled.ino
