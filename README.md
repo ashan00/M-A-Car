@@ -1,7 +1,7 @@
 # M-A-Car
 Car designed, simulated, & built for manual and autonmous control with remote via Arduino
 
-Code File - Remote_Controlled.ino
+Code File - Remote_Controlled.ino , Autonomous_Control.ino
 Contributors: Nirosh & Rishi
 
 Electrical Wiring:
@@ -12,7 +12,7 @@ Simulated Model:
 ![image](https://user-images.githubusercontent.com/65490263/204677301-71a95929-d39f-4813-82c6-0e807d0509f7.png)
 
 Desired Trajectory:
-
+L = length of car = 8'' (20.32 cm)
 ![image](https://user-images.githubusercontent.com/65490263/204677115-63b4807c-2272-4549-a248-62d79245b480.png)
 
 Car:
