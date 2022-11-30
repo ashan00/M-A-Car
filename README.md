@@ -11,7 +11,8 @@ Contributors: Nirosh & Rishi
 
 ![image](https://user-images.githubusercontent.com/65490263/204677115-63b4807c-2272-4549-a248-62d79245b480.png =250x250)
 
-<img src="[https://your-image-url.type](https://user-images.githubusercontent.com/65490263/204677115-63b4807c-2272-4549-a248-62d79245b480.png)" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/65490263/204677115-63b4807c-2272-4549-a248-62d79245b480.png" width=50% height=50%>
+
 
 ##How to Build it?
 ------------------
