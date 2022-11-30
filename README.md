@@ -11,12 +11,9 @@ Simulations Done via Matlab & Coppelia Sim
 Simulated Model:
 ![image](https://user-images.githubusercontent.com/65490263/204677301-71a95929-d39f-4813-82c6-0e807d0509f7.png)
 
-Trajectory of car taken:
+Desired Trajectory:
 
 ![image](https://user-images.githubusercontent.com/65490263/204677115-63b4807c-2272-4549-a248-62d79245b480.png)
-
-Simulated trajectory w/ final car model parameters inputted.
-![image](https://user-images.githubusercontent.com/65490263/204676991-16a34caf-569d-4cec-b8ab-6e0177d93853.png)
 
 Car:
 ![image](https://user-images.githubusercontent.com/65490263/204677808-90c7d200-db3d-431b-8667-ae6a6f655feb.png)
