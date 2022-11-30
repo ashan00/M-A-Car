@@ -10,7 +10,6 @@ Contributors: Nirosh & Rishi
 - Desired Trajectory: L = length of car = 8'' (20.32 cm)
 <img src="https://user-images.githubusercontent.com/65490263/204677115-63b4807c-2272-4549-a248-62d79245b480.png" width=50% height=50%>
 
-
 ##How to Build it?
 ------------------
 ###Electrical Wiring:
@@ -18,12 +17,14 @@ Contributors: Nirosh & Rishi
 - Wire Components according to Circuit:
 <img src="https://user-images.githubusercontent.com/65490263/204677697-2207edbc-e4ed-4111-9d07-bdf9ca47d203.png" width=50% height=50%>
 
+###Code: (via Arduino)
+-Remote_Controlled.ino & Autonomous_Control.ino
+
 ###Simulations: 
 - For testing purposes if required
 - Simulations Done via Matlab & Coppelia Sim
 - Simulated Model:
 <img src="https://user-images.githubusercontent.com/65490263/204677301-71a95929-d39f-4813-82c6-0e807d0509f7.png" width=50% height=50%>
-
 
 ##Final Car:
 ------------------
