@@ -1,8 +1,11 @@
 # M-A-Car
 Car designed, simulated, & built for manual and autonmous control with remote via Arduino
 
-Code File - Remote_Controlled.ino , Autonomous_Control.ino
+Code Files - Remote_Controlled.ino , Autonomous_Control.ino
 Contributors: Nirosh & Rishi
+
+How to Build it?
+________________________________________________________________________________________________________________
 
 Electrical Wiring:
 Electricial Componenets: Arduino, Arduino Shield (with built in H-Brdige), 2 x DC Motor, 2 x Ultrasonic Sensor, Remote
