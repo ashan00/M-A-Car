@@ -5,6 +5,7 @@ Code File - Remote_Controlled.ino , Autonomous_Control.ino
 Contributors: Nirosh & Rishi
 
 Electrical Wiring:
+Electricial Componenets: Arduino, Arduino Shield, 2 x DC Motor, 2 x Ultrasonic Sensor, Remote
 ![image](https://user-images.githubusercontent.com/65490263/204677697-2207edbc-e4ed-4111-9d07-bdf9ca47d203.png)
 
 Simulations Done via Matlab & Coppelia Sim
